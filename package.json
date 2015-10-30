@@ -1,7 +1,7 @@
 {
   "name": "Ogar",
   "version": "1.0.0",
-  "description": "Open source Agar.io server",
+  "description": "Private Agar.io server",
   "main": "src/index.js",
   "dependencies": {
     "ws": "^0.7.2"
